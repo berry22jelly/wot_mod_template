@@ -6,10 +6,11 @@ python2.7
 7zip(opt)
 
 # TODOs
-change path to real path for folloing files:  
+1. change path to real path for folloing files:  
 build.bat   
 package.bat  
 deploy.bat
+2. write your mod.
 
 # usage
 1. write source code(py) in src dir.  
